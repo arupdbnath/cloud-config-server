@@ -1,0 +1,3 @@
+payment-service:
+    endpoint:
+      uri: http://PAYMENT-SERVICE/payment/doPayment
